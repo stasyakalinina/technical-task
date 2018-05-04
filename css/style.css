@@ -1,34 +1,3 @@
-/*
-@font-face{
-    font-family: 'Lato';
-    src: url('../fonts/Lato-Reg.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
-@font-face{
-    font-family: 'Lato';
-    src: url('../fonts/Lato-Bol.ttf') format('truetype');
-    font-weight: bold;
-    font-style: normal;
-}
-@font-face{
-    font-family: 'Lato';
-    src: url('../fonts/Lato-Lig.ttf') format('truetype');
-    font-weight: 100;
-    font-style: normal;
-}
-@font-face{
-    font-family: 'Lato';
-    src: url('../fonts/Lato-LigIta.ttf') format('truetype');
-    font-weight: 100;
-    font-style: italic;
-}
-@font-face {
-	font-family: 'LatoLig';
-	src: url('../font/LatoLig/LatoLig.eot');
-	src: local('LatoLig'), url('../fonts/LatoLig/LatoLig.woff') format('woff'), url('../fonts/LatoLig/LatoLig.ttf') format('truetype');
-}
-*/
 @font-face{
     font-family: 'Calibri';
     src: url('../fonts/Calibri.ttf') format('truetype');
