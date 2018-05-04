@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'LatoLig';
+	src: url('./LatoLig.eot');
+	src: local('LatoLig'), url('./LatoLig.woff') format('woff'), url('./LatoLig.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_7474">Text with this font applied</p> */
+.fontsforweb_fontid_7474 {
+	font-family: 'LatoLig' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */
